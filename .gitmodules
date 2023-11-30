@@ -1,0 +1,4 @@
+[submodule "roles/ansible_role"]
+	path = roles/ansible_role
+	url = https://github.com/fuggla/ansible_role.git
+	branch = main
